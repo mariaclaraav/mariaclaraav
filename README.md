@@ -23,6 +23,7 @@ Enthusiastic about technology and innovation, I am a data scientist with a backg
 - **Programming Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Statsmodels, SciKit-Learn, TensorFlow, Keras) and MATLAB
 - **Machine Learning and Deep Learning**
 - **Time Series Forecasting and Anomaly Detection**
+- **Regression and Classification**
 - **Databases:** SQL
 
 
