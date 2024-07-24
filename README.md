@@ -32,7 +32,6 @@ Enthusiastic about technology and innovation, I am a data scientist with a backg
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-assuncao-viana/)
 [![Portfolio](https://img.shields.io/badge/portfolio-%23E4405F.svg?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/mariaclaraav)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ou0eGXAAAAAJ&hl=pt-BR&oi=ao)
-
-- 📧 [Email](mailto:mariacassuncao16@gmail.com)
+<a href = "mailto:mariacassuncao16@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Feel free to reach out to me for collaboration or just a friendly chat about data science and engineering! 🤗
