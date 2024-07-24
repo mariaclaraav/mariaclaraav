@@ -34,4 +34,6 @@ Enthusiastic about technology and innovation, I am a data scientist with a backg
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ou0eGXAAAAAJ&hl=pt-BR&oi=ao)
 <a href = "mailto:mariacassuncao16@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+- 📧 mariacassuncao16@gmail.com
+
 Feel free to reach out to me for collaboration or just a friendly chat about data science and engineering! 🤗
