@@ -20,7 +20,7 @@ Enthusiastic about technology and innovation, I am a data scientist with a backg
 - Optimized sensor placement using Sparse Sensing.
 
  ## 🦄 Skills
-- **Programming Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Statsmodels, SciKit-Learn, TensorFlow, Keras) and MATLAB
+- **Programming Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Statsmodels, SciKit-Learn, PyTorch and TensorFlow) and MATLAB
 - **Machine Learning and Deep Learning**
 - **Time Series Forecasting and Anomaly Detection**
 - **Regression and Classification**
