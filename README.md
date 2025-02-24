@@ -22,7 +22,7 @@ Data scientist with a mechanical engineering background, experienced in multidis
 
  ## 🦄 Skills
 - **Programming Languages:** Python (core libraries, LangChain, NLTK, PyTorch and TensorFlow), HTML, CSS
-- Cloud and Data Platforms: AWS (SageMaker, Athena), Grafana
+- **Cloud and Data Platforms:** AWS (SageMaker, Athena), Grafana
 - **Databases:** SQL, Weaviate (vector database)
 
 Feel free to reach out to me for collaboration or just a friendly chat about data science and engineering! 🤗
