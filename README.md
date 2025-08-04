@@ -4,9 +4,9 @@
 **mariaclaraav/mariaclaraav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm a Data Scientist finishing my MSc degree at UNICAMP
+- 🔭 I'm a Data Scientist
 - 🏄 I am passionate about machine learning and a fast learner
-- 🎓 I hold a Mechanical Engineering degree
+- 🎓 I hold a Bachelor's and a Master's degree in Mechanical Engineering
   
 ## 🛠 Work Experience
 
@@ -22,7 +22,7 @@ Data scientist with a mechanical engineering background, experienced in multidis
 
  ## 🦄 Skills
 - **Programming Languages:** Python (core libraries, LangChain, NLTK, PyTorch and TensorFlow), HTML, CSS
-- **Cloud and Data Platforms:** AWS (SageMaker, Athena), Grafana
+- **Cloud and Data Platforms:** AWS (SageMaker, Athena, ECS), Grafana, DataDog
 - **Databases:** SQL, Weaviate (vector database)
 
 Feel free to reach out to me for collaboration or just a friendly chat about data science and engineering! 🤗
